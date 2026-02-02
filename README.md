@@ -3,7 +3,7 @@ HTML
 CSS
 JAVASCRIPT
 
-live@ https://renuka0309.github.io/rock_paper_scissors.com
+live@ https://renuka0309.github.io/rock_paper_scissors/.com
 
 ## Game Output
 
